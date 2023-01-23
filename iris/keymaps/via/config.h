@@ -1,0 +1,2 @@
+#define VENDOR_ID 0xCB10
+#define PRODUCT_ID 0x7256
